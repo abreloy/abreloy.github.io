@@ -5,12 +5,28 @@
     <link>http://localhost:1313/publication-type/1/</link>
       <atom:link href="http://localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>http://localhost:1313/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>On-line Kronecker Product Structured Covariance Estimation with Riemannian geometry for t-distributed data</title>
+      <link>http://localhost:1313/publication/c28_eusipco21b/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c28_eusipco21b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expectation-Maximization Based Direction of Arrival Estimation Under a Mixture of Noise</title>
+      <link>http://localhost:1313/publication/c27_eusipco21a/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c27_eusipco21a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Tyler-Type Estimator of Location and Scatter Leveraging Riemannian Optimization</title>

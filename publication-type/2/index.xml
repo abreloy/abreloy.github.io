@@ -5,12 +5,28 @@
     <link>http://localhost:1313/publication-type/2/</link>
       <atom:link href="http://localhost:1313/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>http://localhost:1313/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>An overview of covariance-based change detection methodologies in multivariate SAR image time series</title>
+      <link>http://localhost:1313/publication/j19_bookchap3/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/j19_bookchap3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic PCA from heteroscedastic signals: geometric framework and application to clustering</title>
+      <link>http://localhost:1313/publication/j18_tsp21d/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/j18_tsp21d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robust mean and covariance matrix estimation under heterogeneous mixed-effects model with missing values</title>

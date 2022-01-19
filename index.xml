@@ -5,7 +5,7 @@
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Arnaud Breloy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_2.png</url>
       <title>Arnaud Breloy</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Robust low-rank covariance matrix estimation with a general pattern of missing values</title>
+      <link>http://localhost:1313/publication/j19_spe22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/j19_spe22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An overview of covariance-based change detection methodologies in multivariate SAR image time series</title>
-      <link>http://localhost:1313/publication/j19_bookchap3/</link>
+      <link>http://localhost:1313/publication/b1_bookchap3/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/j19_bookchap3/</guid>
+      <guid>http://localhost:1313/publication/b1_bookchap3/</guid>
       <description></description>
     </item>
     

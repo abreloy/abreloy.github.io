@@ -5,12 +5,52 @@
     <link>http://localhost:1313/publication-type/1/</link>
       <atom:link href="http://localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_2.png</url>
+      <url>http://localhost:1313/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>http://localhost:1313/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>A Robust EM Algorithm for Radio Interferometric Imaging in The Presence of Outliers</title>
+      <link>http://localhost:1313/publication/c33_sips2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c33_sips2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Geometric Metric Learning</title>
+      <link>http://localhost:1313/publication/c31_eusipco2022a/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c31_eusipco2022a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust PCA for Through-the-Wall Radar Imaging</title>
+      <link>http://localhost:1313/publication/c32_eusipco2022b/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c32_eusipco2022b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Phase Linking Algorithm for Multi-temporal InSAR based on the Maximum Likelihood Estimator</title>
+      <link>http://localhost:1313/publication/c30_igarss2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c30_igarss2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the use of geodesic triangles between Gaussian distributions for classification problems</title>
+      <link>http://localhost:1313/publication/c29_icassp2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c29_icassp2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On-line Kronecker Product Structured Covariance Estimation with Riemannian geometry for t-distributed data</title>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers | Arnaud Breloy</title>
+    <link>http://localhost:1313/papers/</link>
+      <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Papers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_3.png</url>
+      <title>Papers</title>
+      <link>http://localhost:1313/papers/</link>
+    </image>
+    
+    <item>
+      <title>Book Chapters</title>
+      <link>http://localhost:1313/papers/book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journals</title>
+      <link>http://localhost:1313/papers/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journals</title>
+      <link>http://localhost:1313/papers/preprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected conferences</title>
+      <link>http://localhost:1313/papers/conference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/conference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,92 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>none</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_2.png</url>
+      <url>http://localhost:1313/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_3.png</url>
       <title>none</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>Learning graphical factor models with Riemannian optimization</title>
+      <link>http://localhost:1313/publication/p1_2022-graph_learning/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/p1_2022-graph_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riemannian optimization for non-centered mixture of scaled Gaussian distributions</title>
+      <link>http://localhost:1313/publication/p2_2023_meancovantoine/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/p2_2023_meancovantoine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust phase linking in InSAR</title>
+      <link>http://localhost:1313/publication/p2_2023_hoapl/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/p2_2023_hoapl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robust EM Algorithm for Radio Interferometric Imaging in The Presence of Outliers</title>
+      <link>http://localhost:1313/publication/c33_sips2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c33_sips2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Geometric Metric Learning</title>
+      <link>http://localhost:1313/publication/c31_eusipco2022a/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c31_eusipco2022a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust PCA for Through-the-Wall Radar Imaging</title>
+      <link>http://localhost:1313/publication/c32_eusipco2022b/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c32_eusipco2022b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Phase Linking Algorithm for Multi-temporal InSAR based on the Maximum Likelihood Estimator</title>
+      <link>http://localhost:1313/publication/c30_igarss2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c30_igarss2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multifrequency array calibration in presence of radio frequency interferences</title>
+      <link>http://localhost:1313/publication/j21_spe22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/j21_spe22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the use of geodesic triangles between Gaussian distributions for classification problems</title>
+      <link>http://localhost:1313/publication/c29_icassp2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c29_icassp2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized tapered sample covariance matrix</title>
+      <link>http://localhost:1313/publication/j20_tsp22/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/j20_tsp22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robust low-rank covariance matrix estimation with a general pattern of missing values</title>

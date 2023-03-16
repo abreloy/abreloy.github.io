@@ -2,181 +2,181 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Arnaud Breloy</title>
-    <link>https://abreloy.github.io/publication-type/2/</link>
-      <atom:link href="https://abreloy.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/2/</link>
+      <atom:link href="http://localhost:1313/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://abreloy.github.io/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://abreloy.github.io/publication-type/2/</link>
+      <link>http://localhost:1313/publication-type/2/</link>
     </image>
     
     <item>
       <title>Multifrequency array calibration in presence of radio frequency interferences</title>
-      <link>https://abreloy.github.io/publication/j21_spe22/</link>
+      <link>http://localhost:1313/publication/J21_SPE22/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j21_spe22/</guid>
+      <guid>http://localhost:1313/publication/J21_SPE22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regularized tapered sample covariance matrix</title>
-      <link>https://abreloy.github.io/publication/j20_tsp22/</link>
+      <link>http://localhost:1313/publication/J20_TSP22/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j20_tsp22/</guid>
+      <guid>http://localhost:1313/publication/J20_TSP22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust low-rank covariance matrix estimation with a general pattern of missing values</title>
-      <link>https://abreloy.github.io/publication/j19_spe22/</link>
+      <link>http://localhost:1313/publication/J19_SPE22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j19_spe22/</guid>
+      <guid>http://localhost:1313/publication/J19_SPE22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic PCA from heteroscedastic signals: geometric framework and application to clustering</title>
-      <link>https://abreloy.github.io/publication/j18_tsp21d/</link>
+      <link>http://localhost:1313/publication/J18_TSP21d/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j18_tsp21d/</guid>
+      <guid>http://localhost:1313/publication/J18_TSP21d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust mean and covariance matrix estimation under heterogeneous mixed-effects model with missing values</title>
-      <link>https://abreloy.github.io/publication/j17_spe21b/</link>
+      <link>http://localhost:1313/publication/J17_SPE21b/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j17_spe21b/</guid>
+      <guid>http://localhost:1313/publication/J17_SPE21b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MIMO filters based on robust rank-constrained Kronecker covariance matrix estimation</title>
-      <link>https://abreloy.github.io/publication/j16_spe21/</link>
+      <link>http://localhost:1313/publication/J16_SPE21/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j16_spe21/</guid>
+      <guid>http://localhost:1313/publication/J16_SPE21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Majorization-Minimization on the Stiefel manifold with application to robust sparse PCA</title>
-      <link>https://abreloy.github.io/publication/j15_tsp21c/</link>
+      <link>http://localhost:1313/publication/J15_TSP21c/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j15_tsp21c/</guid>
+      <guid>http://localhost:1313/publication/J15_TSP21c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Riemannian framework for low-rank structured elliptical models</title>
-      <link>https://abreloy.github.io/publication/j14_tsp21b/</link>
+      <link>http://localhost:1313/publication/J14_TSP21b/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j14_tsp21b/</guid>
+      <guid>http://localhost:1313/publication/J14_TSP21b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matched and mismatched estimation of Kronecker product of linearly structured scatter matrices under elliptical distributions</title>
-      <link>https://abreloy.github.io/publication/j13_tsp21a/</link>
+      <link>http://localhost:1313/publication/J13_TSP21a/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j13_tsp21a/</guid>
+      <guid>http://localhost:1313/publication/J13_TSP21a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust low-rank change detection for multivariate SAR image time series</title>
-      <link>https://abreloy.github.io/publication/j12_jstars20/</link>
+      <link>http://localhost:1313/publication/J12_JSTARS20/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j12_jstars20/</guid>
+      <guid>http://localhost:1313/publication/J12_JSTARS20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two-dimensional robust source localization under non-Gaussian noise</title>
-      <link>https://abreloy.github.io/publication/j11_cs20/</link>
+      <link>http://localhost:1313/publication/J11_CS20/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j11_cs20/</guid>
+      <guid>http://localhost:1313/publication/J11_CS20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian signal subspace estimation with compound Gaussian sources</title>
-      <link>https://abreloy.github.io/publication/j10_spe20b/</link>
+      <link>http://localhost:1313/publication/J10_SPE20b/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j10_spe20b/</guid>
+      <guid>http://localhost:1313/publication/J10_SPE20b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the performance of robust plug-in detectors using M-estimators</title>
-      <link>https://abreloy.github.io/publication/j9_spe20a/</link>
+      <link>http://localhost:1313/publication/J9_SPE20a/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j9_spe20a/</guid>
+      <guid>http://localhost:1313/publication/J9_SPE20a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust estimation of structured scatter matrices in (mis)matched models</title>
-      <link>https://abreloy.github.io/publication/j7_spe19/</link>
+      <link>http://localhost:1313/publication/J7_SPE19/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j7_spe19/</guid>
+      <guid>http://localhost:1313/publication/J7_SPE19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the asymptotics of Maronna&#39;s robust PCA</title>
-      <link>https://abreloy.github.io/publication/j8_tsp19/</link>
+      <link>http://localhost:1313/publication/J8_TSP19/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j8_tsp19/</guid>
+      <guid>http://localhost:1313/publication/J8_TSP19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detection methods based on structured covariance matrices for multivariate SAR images processing</title>
-      <link>https://abreloy.github.io/publication/j6_grsl19/</link>
+      <link>http://localhost:1313/publication/J6_GRSL19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j6_grsl19/</guid>
+      <guid>http://localhost:1313/publication/J6_GRSL19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intrinsic Cramér–Rao bounds for scatter and shape matrices estimation in CES distributions</title>
-      <link>https://abreloy.github.io/publication/j4_spl19/</link>
+      <link>http://localhost:1313/publication/J4_SPL19/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j4_spl19/</guid>
+      <guid>http://localhost:1313/publication/J4_SPL19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asymptotic performance of complex M-estimators for multivariate location and scatter estimation</title>
-      <link>https://abreloy.github.io/publication/j5_spl19b/</link>
+      <link>http://localhost:1313/publication/J5_SPL19b/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j5_spl19b/</guid>
+      <guid>http://localhost:1313/publication/J5_SPL19b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust covariance matrix estimation in heterogeneous low rank context</title>
-      <link>https://abreloy.github.io/publication/j3_tsp16b/</link>
+      <link>http://localhost:1313/publication/J3_TSP16b/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j3_tsp16b/</guid>
+      <guid>http://localhost:1313/publication/J3_TSP16b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-complexity algorithms for low rank clutter parameters estimation in radar systems</title>
-      <link>https://abreloy.github.io/publication/j2_tsp16a/</link>
+      <link>http://localhost:1313/publication/J2_TSP16a/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j2_tsp16a/</guid>
+      <guid>http://localhost:1313/publication/J2_TSP16a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clutter subspace estimation in low rank heterogeneous noise context</title>
-      <link>https://abreloy.github.io/publication/j1_tsp15/</link>
+      <link>http://localhost:1313/publication/J1_TSP15/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/j1_tsp15/</guid>
+      <guid>http://localhost:1313/publication/J1_TSP15/</guid>
       <description></description>
     </item>
     

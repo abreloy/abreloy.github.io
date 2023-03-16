@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Arnaud Breloy</title>
-    <link>https://abreloy.github.io/publication-type/3/</link>
-      <atom:link href="https://abreloy.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/3/</link>
+      <atom:link href="http://localhost:1313/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://abreloy.github.io/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
-      <link>https://abreloy.github.io/publication-type/3/</link>
+      <link>http://localhost:1313/publication-type/3/</link>
     </image>
     
     <item>
       <title>Learning graphical factor models with Riemannian optimization</title>
-      <link>https://abreloy.github.io/publication/p1_2022-graph_learning/</link>
+      <link>http://localhost:1313/publication/P1_2022-Graph_learning/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/p1_2022-graph_learning/</guid>
+      <guid>http://localhost:1313/publication/P1_2022-Graph_learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Riemannian optimization for non-centered mixture of scaled Gaussian distributions</title>
-      <link>https://abreloy.github.io/publication/p2_2023_meancovantoine/</link>
+      <link>http://localhost:1313/publication/P2_2023_MeanCovAntoine/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/p2_2023_meancovantoine/</guid>
+      <guid>http://localhost:1313/publication/P2_2023_MeanCovAntoine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust phase linking in InSAR</title>
-      <link>https://abreloy.github.io/publication/p2_2023_hoapl/</link>
+      <link>http://localhost:1313/publication/P2_2023_HoaPL/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/publication/p2_2023_hoapl/</guid>
+      <guid>http://localhost:1313/publication/P2_2023_HoaPL/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest Talks | Arnaud Breloy</title>
-    <link>https://abreloy.github.io/event/</link>
-      <atom:link href="https://abreloy.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/event/</link>
+      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Nov 2022 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://abreloy.github.io/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu2248cbe6781d942ad876003f72cd5647_6173_512x512_fill_lanczos_center_3.png</url>
       <title>Latest Talks</title>
-      <link>https://abreloy.github.io/event/</link>
+      <link>http://localhost:1313/event/</link>
     </image>
     
     <item>
       <title>Learning graphical factor models with Riemannian optimization</title>
-      <link>https://abreloy.github.io/talk/learning-graphical-factor-models-with-riemannian-optimization/</link>
+      <link>http://localhost:1313/talk/learning-graphical-factor-models-with-riemannian-optimization/</link>
       <pubDate>Mon, 14 Nov 2022 14:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/talk/learning-graphical-factor-models-with-riemannian-optimization/</guid>
+      <guid>http://localhost:1313/talk/learning-graphical-factor-models-with-riemannian-optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Riemannian and information geometry in signal processing and machine learning</title>
-      <link>https://abreloy.github.io/talk/riemannian-and-information-geometry-in-signal-processing-and-machine-learning/</link>
+      <link>http://localhost:1313/talk/riemannian-and-information-geometry-in-signal-processing-and-machine-learning/</link>
       <pubDate>Mon, 29 Aug 2022 09:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/talk/riemannian-and-information-geometry-in-signal-processing-and-machine-learning/</guid>
+      <guid>http://localhost:1313/talk/riemannian-and-information-geometry-in-signal-processing-and-machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Riemannian geometry in elliptical distributions</title>
-      <link>https://abreloy.github.io/talk/riemannian-geometry-in-elliptical-distributions/</link>
+      <link>http://localhost:1313/talk/riemannian-geometry-in-elliptical-distributions/</link>
       <pubDate>Thu, 07 Oct 2021 13:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/talk/riemannian-geometry-in-elliptical-distributions/</guid>
+      <guid>http://localhost:1313/talk/riemannian-geometry-in-elliptical-distributions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About subspace learning</title>
-      <link>https://abreloy.github.io/talk/about-subspace-learning/</link>
+      <link>http://localhost:1313/talk/about-subspace-learning/</link>
       <pubDate>Wed, 12 May 2021 13:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/talk/about-subspace-learning/</guid>
+      <guid>http://localhost:1313/talk/about-subspace-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust statistical framework for radar change detection applications</title>
-      <link>https://abreloy.github.io/talk/robust-statistical-framework-for-radar-change-detection-applications/</link>
+      <link>http://localhost:1313/talk/robust-statistical-framework-for-radar-change-detection-applications/</link>
       <pubDate>Mon, 21 Sep 2020 13:00:00 +0000</pubDate>
-      <guid>https://abreloy.github.io/talk/robust-statistical-framework-for-radar-change-detection-applications/</guid>
+      <guid>http://localhost:1313/talk/robust-statistical-framework-for-radar-change-detection-applications/</guid>
       <description></description>
     </item>
     

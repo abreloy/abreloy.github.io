@@ -2,215 +2,230 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://abreloy.github.io/publication-type/3/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication-type/5/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/p1_2022-graph_learning/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication_types/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/b2_bookchap23/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/p2_2023_meancovantoine/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication-type/1/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/p2_2023_hoapl/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication-type/3/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/event/</loc>
+    <loc>http://localhost:1313/publication/c36_mlsp2023/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/mlc1_ecml2023/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/2/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/c35_igarss2023/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/j24_spe2023/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/j23_tgrs2023/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/c34_icassp2023/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/j22_tsp2023/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2022-11-14T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/talk/learning-graphical-factor-models-with-riemannian-optimization/</loc>
+    <loc>http://localhost:1313/talk/learning-graphical-factor-models-with-riemannian-optimization/</loc>
     <lastmod>2022-11-14T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication-type/1/</loc>
+    <loc>http://localhost:1313/publication/c33_sips2022/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c33_sips2022/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abreloy.github.io/publication/c31_eusipco2022a/</loc>
+    <loc>http://localhost:1313/publication/c31_eusipco2022a/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c32_eusipco2022b/</loc>
+    <loc>http://localhost:1313/publication/c32_eusipco2022b/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/talk/riemannian-and-information-geometry-in-signal-processing-and-machine-learning/</loc>
+    <loc>http://localhost:1313/talk/riemannian-and-information-geometry-in-signal-processing-and-machine-learning/</loc>
     <lastmod>2022-08-29T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c30_igarss2022/</loc>
+    <loc>http://localhost:1313/publication/c30_igarss2022/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication-type/2/</loc>
+    <loc>http://localhost:1313/publication/j21_spe22/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j21_spe22/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abreloy.github.io/publication/c29_icassp2022/</loc>
+    <loc>http://localhost:1313/publication/c29_icassp2022/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j20_tsp22/</loc>
+    <loc>http://localhost:1313/publication/j20_tsp22/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j19_spe22/</loc>
+    <loc>http://localhost:1313/publication/j19_spe22/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication-type/5/</loc>
+    <loc>http://localhost:1313/publication/b1_bookchap3/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/b1_bookchap3/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abreloy.github.io/publication/c28_eusipco21b/</loc>
+    <loc>http://localhost:1313/publication/c28_eusipco21b/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j18_tsp21d/</loc>
+    <loc>http://localhost:1313/publication/j18_tsp21d/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c27_eusipco21a/</loc>
+    <loc>http://localhost:1313/publication/c27_eusipco21a/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/talk/riemannian-geometry-in-elliptical-distributions/</loc>
+    <loc>http://localhost:1313/talk/riemannian-geometry-in-elliptical-distributions/</loc>
     <lastmod>2021-10-07T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c26_icassp21/</loc>
+    <loc>http://localhost:1313/publication/c26_icassp21/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/talk/about-subspace-learning/</loc>
+    <loc>http://localhost:1313/talk/about-subspace-learning/</loc>
     <lastmod>2021-05-12T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j17_spe21b/</loc>
+    <loc>http://localhost:1313/publication/j17_spe21b/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j16_spe21/</loc>
+    <loc>http://localhost:1313/publication/j16_spe21/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j15_tsp21c/</loc>
+    <loc>http://localhost:1313/publication/j15_tsp21c/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j14_tsp21b/</loc>
+    <loc>http://localhost:1313/publication/j14_tsp21b/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j13_tsp21a/</loc>
+    <loc>http://localhost:1313/publication/j13_tsp21a/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/tag/academic/</loc>
+    <loc>http://localhost:1313/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/category/demo/</loc>
+    <loc>http://localhost:1313/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/post/getting-started/</loc>
+    <loc>http://localhost:1313/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://localhost:1313/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:1313/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c25_eusipco20/</loc>
+    <loc>http://localhost:1313/publication/c25_eusipco20/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/talk/robust-statistical-framework-for-radar-change-detection-applications/</loc>
+    <loc>http://localhost:1313/talk/robust-statistical-framework-for-radar-change-detection-applications/</loc>
     <lastmod>2020-09-21T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j12_jstars20/</loc>
+    <loc>http://localhost:1313/publication/j12_jstars20/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c22_icassp20/</loc>
+    <loc>http://localhost:1313/publication/c22_icassp20/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j11_cs20/</loc>
+    <loc>http://localhost:1313/publication/j11_cs20/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j10_spe20b/</loc>
+    <loc>http://localhost:1313/publication/j10_spe20b/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j9_spe20a/</loc>
+    <loc>http://localhost:1313/publication/j9_spe20a/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c21_camsap19b/</loc>
+    <loc>http://localhost:1313/publication/c21_camsap19b/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j7_spe19/</loc>
+    <loc>http://localhost:1313/publication/j7_spe19/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c20_camsap19/</loc>
+    <loc>http://localhost:1313/publication/c20_camsap19/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j8_tsp19/</loc>
+    <loc>http://localhost:1313/publication/j8_tsp19/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j6_grsl19/</loc>
+    <loc>http://localhost:1313/publication/j6_grsl19/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/slides/</loc>
+    <loc>http://localhost:1313/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/slides/example/</loc>
+    <loc>http://localhost:1313/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j4_spl19/</loc>
+    <loc>http://localhost:1313/publication/j4_spl19/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j5_spl19b/</loc>
+    <loc>http://localhost:1313/publication/j5_spl19b/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c15_eusipco18/</loc>
+    <loc>http://localhost:1313/publication/c15_eusipco18/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c13_camsap17/</loc>
+    <loc>http://localhost:1313/publication/c13_camsap17/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c12_icassp17/</loc>
+    <loc>http://localhost:1313/publication/c12_icassp17/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j3_tsp16b/</loc>
+    <loc>http://localhost:1313/publication/j3_tsp16b/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c8_asilomar16/</loc>
+    <loc>http://localhost:1313/publication/c8_asilomar16/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c6_ssp16/</loc>
+    <loc>http://localhost:1313/publication/c6_ssp16/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/tag/deep-learning/</loc>
+    <loc>http://localhost:1313/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/project/example/</loc>
+    <loc>http://localhost:1313/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j2_tsp16a/</loc>
+    <loc>http://localhost:1313/publication/j2_tsp16a/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/j1_tsp15/</loc>
+    <loc>http://localhost:1313/publication/j1_tsp15/</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/publication/c1_eusipco13/</loc>
+    <loc>http://localhost:1313/publication/c1_eusipco13/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abreloy.github.io/admin/</loc>
+    <loc>http://localhost:1313/admin/</loc>
   </url><url>
-    <loc>https://abreloy.github.io/papers/</loc>
+    <loc>http://localhost:1313/papers/</loc>
   </url>
 </urlset>
